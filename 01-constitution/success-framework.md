@@ -36,16 +36,16 @@ What naturally emerges.
 
 ## Success Equation
 
-\[
+$$
 Success =
 \frac{(Systems \times Consistency \times Time)^{Direction} \times Luck}
 {Friction}
-\]
+$$
 
 Where:
 
-\[
-Luck = 1 + (SurfaceArea \times Preparedness)
-\]
+$$
+Luck = 1 + (\text{Surface Area} \times \text{Preparedness})
+$$
 
 The equation describes the mechanics of success. The three-layer framework explains how a person operates those mechanics.
