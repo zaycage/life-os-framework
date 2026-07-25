@@ -4,15 +4,7 @@
 
 How I choose to live.
 
-Examples include:
-
-- Discipline
-- Ownership
-- Integrity
-- Courage
-- Patience
-- Curiosity
-- Humility
+See [Principles](./principles.md) for the full definitions.
 
 ## Levers
 
